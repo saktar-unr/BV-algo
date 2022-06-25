@@ -1,6 +1,5 @@
-# BV-algo
 
-Analysis of the Mathematics and Implications of Bernstein-Vazirani Algorithm:
+# Analysis of the Mathematics and Implications of Bernstein-Vazirani Algorithm
 
 -Classical Solution of BV Problem & Query Complexity
 
